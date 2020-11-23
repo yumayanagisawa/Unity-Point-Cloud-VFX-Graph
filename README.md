@@ -1,7 +1,7 @@
 # Unity-Point-Cloud-VFX-Graph
 I attempted to render point clouds with the VFX Graph in an HDRP scene. This project is based on [Keijiro's Pcx](https://github.com/keijiro/Pcx). Therefore, you can generate colour and position maps from imported ply files, which will be used for your VFX graphs.
 
-![Screenshot](Screenshot.png)
+![Screenshot](workshop.png)
 
 [The original point cloud](https://sketchfab.com/3d-models/point-cloud-garden-7301fb3b8d344b13b015382a1adb884c) was created by ediacara
 
@@ -11,4 +11,4 @@ If you don't have any point cloud (ply) file, one of the easiest ways to get it 
 ![Screenshot](ply_type.png)
 ![Screenshot](ply_texture.png)
 ### NYU Shanghai Workshop
-This project is updated for a workshop I gave to Interactive Media Arts student at NYU Shanghai and then I have left some unnecessary files as well in order to have the same project as in the workshop. A recording is available [here](https://youtu.be/iqntF9NPqLw). 
+This project is updated for a workshop I gave to Interactive Media Arts student at NYU Shanghai and then I have left some unnecessary files as well in order to have the same project as in the workshop. A recording is available [here](https://youtu.be/iqntF9NPqLw).
