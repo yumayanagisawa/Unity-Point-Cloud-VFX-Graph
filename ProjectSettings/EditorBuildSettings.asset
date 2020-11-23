@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: cbfe36cfddfde964d9dfce63a355d5dd
+    path: Assets/Garden/GardenHDRP.unity
+    guid: 8335f07f1c7dce24a9d420ff61a9b0a6
   m_configObjects: {}
