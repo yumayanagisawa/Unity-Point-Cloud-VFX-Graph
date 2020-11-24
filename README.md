@@ -11,4 +11,4 @@ If you don't have any point cloud (ply) file, one of the easiest ways to get it 
 ![Screenshot](ply_type.png)
 ![Screenshot](ply_texture.png)
 ### NYU Shanghai Workshop
-This project is updated for a workshop I gave to Interactive Media Arts student at NYU Shanghai and then I have left some unnecessary files as well in order to have the same project as in the workshop. A recording is available [here](https://youtu.be/iqntF9NPqLw).
+This repository has been updated in accordance with the workshop I gave to Interactive Media Arts student at NYU Shanghai in October and then I have left some unnecessary files as well in order to have exactly the same project as before. A recording is available [here](https://youtu.be/iqntF9NPqLw).
